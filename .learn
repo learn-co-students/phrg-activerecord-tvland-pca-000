@@ -4,3 +4,5 @@ tags:
   - ORM
   - ActiveRecord
   - associations
+
+parent_template: git@github.com:learn-co-curriculum/activerecord-tvland.git
